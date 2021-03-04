@@ -1,0 +1,13 @@
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\bin\Debug\netcoreapp3.1\helloWorldAgain.exe
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\bin\Debug\netcoreapp3.1\helloWorldAgain.deps.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\bin\Debug\netcoreapp3.1\helloWorldAgain.runtimeconfig.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\bin\Debug\netcoreapp3.1\helloWorldAgain.runtimeconfig.dev.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\bin\Debug\netcoreapp3.1\helloWorldAgain.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\bin\Debug\netcoreapp3.1\helloWorldAgain.pdb
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\obj\Debug\netcoreapp3.1\helloWorldAgain.csprojAssemblyReference.cache
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\obj\Debug\netcoreapp3.1\helloWorldAgain.AssemblyInfoInputs.cache
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\obj\Debug\netcoreapp3.1\helloWorldAgain.AssemblyInfo.cs
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\obj\Debug\netcoreapp3.1\helloWorldAgain.csproj.CoreCompileInputs.cache
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\obj\Debug\netcoreapp3.1\helloWorldAgain.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\obj\Debug\netcoreapp3.1\helloWorldAgain.pdb
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\helloWorldAgain\helloWorldAgain\obj\Debug\netcoreapp3.1\helloWorldAgain.genruntimeconfig.cache
