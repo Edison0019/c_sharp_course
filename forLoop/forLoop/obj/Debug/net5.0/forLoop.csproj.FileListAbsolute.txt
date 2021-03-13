@@ -1,0 +1,15 @@
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\bin\Debug\net5.0\forLoop.exe
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\bin\Debug\net5.0\forLoop.deps.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\bin\Debug\net5.0\forLoop.runtimeconfig.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\bin\Debug\net5.0\forLoop.runtimeconfig.dev.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\bin\Debug\net5.0\forLoop.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\bin\Debug\net5.0\ref\forLoop.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\bin\Debug\net5.0\forLoop.pdb
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\obj\Debug\net5.0\forLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\obj\Debug\net5.0\forLoop.AssemblyInfoInputs.cache
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\obj\Debug\net5.0\forLoop.AssemblyInfo.cs
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\obj\Debug\net5.0\forLoop.csproj.CoreCompileInputs.cache
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\obj\Debug\net5.0\forLoop.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\obj\Debug\net5.0\ref\forLoop.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\obj\Debug\net5.0\forLoop.pdb
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\forLoop\forLoop\obj\Debug\net5.0\forLoop.genruntimeconfig.cache

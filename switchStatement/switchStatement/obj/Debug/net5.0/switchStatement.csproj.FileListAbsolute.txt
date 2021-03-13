@@ -1,0 +1,16 @@
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\bin\Debug\net5.0\switchStatement.exe
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\bin\Debug\net5.0\switchStatement.deps.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\bin\Debug\net5.0\switchStatement.runtimeconfig.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\bin\Debug\net5.0\switchStatement.runtimeconfig.dev.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\bin\Debug\net5.0\switchStatement.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\bin\Debug\net5.0\ref\switchStatement.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\bin\Debug\net5.0\switchStatement.pdb
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\obj\Debug\net5.0\switchStatement.csprojAssemblyReference.cache
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\obj\Debug\net5.0\switchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\obj\Debug\net5.0\switchStatement.AssemblyInfoInputs.cache
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\obj\Debug\net5.0\switchStatement.AssemblyInfo.cs
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\obj\Debug\net5.0\switchStatement.csproj.CoreCompileInputs.cache
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\obj\Debug\net5.0\switchStatement.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\obj\Debug\net5.0\ref\switchStatement.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\obj\Debug\net5.0\switchStatement.pdb
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\switchStatement\switchStatement\obj\Debug\net5.0\switchStatement.genruntimeconfig.cache
