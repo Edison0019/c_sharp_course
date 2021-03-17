@@ -1,0 +1,16 @@
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\bin\Debug\net5.0\DemoClass.exe
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\bin\Debug\net5.0\DemoClass.deps.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\bin\Debug\net5.0\DemoClass.runtimeconfig.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\bin\Debug\net5.0\DemoClass.runtimeconfig.dev.json
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\bin\Debug\net5.0\DemoClass.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\bin\Debug\net5.0\ref\DemoClass.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\bin\Debug\net5.0\DemoClass.pdb
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\obj\Debug\net5.0\DemoClass.csprojAssemblyReference.cache
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\obj\Debug\net5.0\DemoClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\obj\Debug\net5.0\DemoClass.AssemblyInfoInputs.cache
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\obj\Debug\net5.0\DemoClass.AssemblyInfo.cs
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\obj\Debug\net5.0\DemoClass.csproj.CoreCompileInputs.cache
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\obj\Debug\net5.0\DemoClass.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\obj\Debug\net5.0\ref\DemoClass.dll
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\obj\Debug\net5.0\DemoClass.pdb
+C:\Users\ediso\OneDrive\Escritorio\c_sharp_course\DemoClass\DemoClass\obj\Debug\net5.0\DemoClass.genruntimeconfig.cache
