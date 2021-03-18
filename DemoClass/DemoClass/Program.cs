@@ -1,4 +1,7 @@
 ﻿using System;
+using Dependencies.StaticValues;
+using Dependencies.staticClass;
+
 
 namespace DemoClass
 {
@@ -86,10 +89,35 @@ namespace DemoClass
     {
         static void Main(string[] args)
         {
-            var edison = new Staff("Edison", "Santana");
-            edison.hoursWorked = 50;
-            Console.WriteLine(edison.CalculatePay(50, 20));
-            Console.WriteLine("Hello World!");
+            int pay;
+            Staff staff1 = new Staff("Peter");
+            staff1.hoursWorked = 160;
+            pay = staff1.CalculatePay(1000, 400);
+            Console.WriteLine("Pay = {0}", pay);
+
+            Staff staff2 = new Staff("Jane", "Lee");
+            staff2.hoursWorked = 160;
+            pay = staff2.CalculatePay();
+            Console.WriteLine("Pay = {0}", pay);
+
+            Staff staff3 = new Staff("Carol");
+            staff3.hoursWorked = -10;
+            pay = staff3.CalculatePay();
+            Console.WriteLine("Pay = {0}", pay);
+
+            //this is a test to show static values or methods of a class
+            Console.WriteLine(MyClass.greetings);
+            MyClass.Age = 50;
+            MyClass.DisplayAge();
+
+            //this is for using the static class
+            int[] myVals = staticClass.listElements();
+            foreach(short i in myVals)
+            {
+                Console.WriteLine(
+                    "The list I just entered is: {0}",
+                    i);
+            }
         }
     }
 }
