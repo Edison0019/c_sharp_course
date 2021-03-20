@@ -1,6 +1,8 @@
 ﻿using System;
 using Dependencies.StaticValues;
 using Dependencies.staticClass;
+using System.Collections.Generic;
+
 
 
 namespace DemoClass
@@ -84,6 +86,15 @@ namespace DemoClass
             Console.WriteLine("\n" + nameOfStaff);
             Console.WriteLine("_________________");
         }
+        //using the params keyboard
+        public void PrintNames(params string[] names)
+        {
+            for(int i =0; i < names.Length; i++)
+            {
+                Console.Write(names[i] + " ");
+            }
+            Console.WriteLine();
+        }
     }
     class Program
     {
@@ -104,6 +115,7 @@ namespace DemoClass
             staff3.hoursWorked = -10;
             pay = staff3.CalculatePay();
             Console.WriteLine("Pay = {0}", pay);
+            staff3.PrintNames("Edison", "Javier", "Santana", "Fernandez");
 
             //this is a test to show static values or methods of a class
             Console.WriteLine(MyClass.greetings);
@@ -118,6 +130,7 @@ namespace DemoClass
                     "The list I just entered is: {0}",
                     i);
             }
+
         }
     }
 }

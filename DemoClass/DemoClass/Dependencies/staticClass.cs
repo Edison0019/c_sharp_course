@@ -26,7 +26,6 @@ namespace Dependencies.staticClass
         {
             Console.WriteLine("The first element of the list is \n{0}", listado[0]);
         }
-
         //we can also return collection types from methods like
         public static int[] listElements()
         {
