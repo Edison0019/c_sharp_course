@@ -11,6 +11,10 @@ namespace HelloWorld.Course
         private int memberID;
         private int memberSince;
 
+        public virtual void calculateFee()
+        {
+            annualFee = 0;
+        }
 
         public Member()
         {
@@ -49,7 +53,7 @@ namespace HelloWorld.Course
             Console.WriteLine("Child constructor with 4 parameter");
             Console.WriteLine("Remarks: {0}",remarks);
         }
-        public void calculateFee()
+        public override void calculateFee()
         {
             //since the field already exists in the parent class
             //we do not need to declare it twice in the child class
@@ -64,7 +68,7 @@ namespace HelloWorld.Course
         {
             Console.WriteLine("Child class with three parameters");
         }
-        public void CalculateAnualFee()
+        public override void calculateFee()
         {
             annualFee = 1200;
         }
