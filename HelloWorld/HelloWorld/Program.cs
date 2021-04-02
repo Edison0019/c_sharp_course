@@ -8,14 +8,13 @@ using HelloWorld.Course;
 
 namespace HelloWorld
 {
-    //a simple program to print hello world in this
-    //awesome programming languange
+    //this class is for testing LINQ with objects
+    
     class Program
     {
         static void Main(string[] args)
         {
-            myStruct me = new myStruct("Edison", 23, 97);
-            me.printStatement();
+            FileReader.printFile();
         }
     }
 }
